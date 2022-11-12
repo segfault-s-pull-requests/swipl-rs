@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["PrologStream","A stream from prolog, used in blob writers."],["ReadablePrologStream","A stream from prolog that can be read from."],["WritablePrologStream","A stream from prolog that can be directly written to."]]};
